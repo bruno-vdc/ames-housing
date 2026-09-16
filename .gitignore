@@ -1,1 +1,5 @@
 .vscode/
+.Rhistory
+.git/
+.DS_Store
+.images/.DS_Store
